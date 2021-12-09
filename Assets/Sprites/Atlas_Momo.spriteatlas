@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Momo
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: dbceed29d260e874b913651bf6e8b188, type: 3}
+    totalSpriteSurfaceArea: 774192
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d1fdb8924cbfffb4eae72ff0b184ad66, type: 3}
+  - {fileID: 21300000, guid: d392e0e280fa64f4aa6a03e72fb6a7fa, type: 3}
+  - {fileID: 21300000, guid: c8edf88392aa721449640d7142911ff7, type: 3}
+  - {fileID: 21300000, guid: 19a4d714cb55ef346933404485c5eacd, type: 3}
+  - {fileID: 21300000, guid: a10b94b455164b34280d3125346e0a11, type: 3}
+  - {fileID: 21300000, guid: aac89e57d65bbc14d8642dfe7d593dc5, type: 3}
+  - {fileID: 21300000, guid: af1923788c9e0234f8d952cd07ee942a, type: 3}
+  - {fileID: 21300000, guid: 2f571c987b209e743b9900279653ca19, type: 3}
+  - {fileID: 21300000, guid: 16e0ae6e58481ae40bc61c20b8fa3edc, type: 3}
+  - {fileID: 21300000, guid: 4111bf7e97dd70f448e9e79c8ac943a9, type: 3}
+  - {fileID: 21300000, guid: 27fe5bce6396fcb44a23c3a32363c983, type: 3}
+  - {fileID: 21300000, guid: a159bb4fb8ccbbf48b362b4f3807aec7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - caminar_1
+  - espadaso_2
+  - respirando
+  - espadaso_3
+  - caminar_3
+  - derrota_1
+  - espadaso_1
+  - caminar_2
+  - saltando
+  - derrota_3
+  - espadaso_4
+  - derrota_2
+  m_RenderDataMap: {}
+  m_Tag: Atlas_Momo
+  m_IsVariant: 0
